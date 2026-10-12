@@ -15,11 +15,11 @@ currently running **[cyberbeach](https://cyberbeach.cc)**
 
 | project | description | status |
 |---------|-------------|--------|
-| [cyberbeach](https://cyberbeach.cc) | platform automation | active |
-| [go6](https://megareborn.dev) | platform automation | archived |
-| [bloxware](https://megareborn.dev) | platform automation | archived |
-| [receiptly](https://megareborn.dev) | platform automation | archived |
-| [fern](https://fern.rip) | platform automation | archived |
+| [cyberbeach](https://cyberbeach.cc) | community in automation & help | active |
+| [go6](https://megareborn.dev) | discord automation tool | archived |
+| [bloxware](https://megareborn.dev) | roblox executor tool | archived |
+| [receiptly](https://megareborn.dev) | resell aid tool | archived |
+| [fern](https://fern.rip) | p2p discord client | archived |
 
 ---
 
