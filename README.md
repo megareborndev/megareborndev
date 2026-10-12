@@ -7,7 +7,7 @@
 ---
 
 been building automation tools across different platforms for a while now
-currently running **[cyberbeach]([https://cyberbeach.cc])**
+currently running **[cyberbeach](https://cyberbeach.cc)**
 
 ---
 
@@ -15,11 +15,11 @@ currently running **[cyberbeach]([https://cyberbeach.cc])**
 
 | project | description | status |
 |---------|-------------|--------|
-| [cyberbeach]([https://cyberbeach.cc]) | platform automation | active |
-| [go6]([https://megareborn.dev]) | platform automation | archived |
-| [bloxware]([https://megareborn.dev]) | platform automation | archived |
-| [receiptly]([https://megareborn.dev]) | platform automation | archived |
-| [fern]([https://fern.rip]) | platform automation | archived |
+| [cyberbeach](https://cyberbeach.cc) | platform automation | active |
+| [go6](https://megareborn.dev) | platform automation | archived |
+| [bloxware](https://megareborn.dev) | platform automation | archived |
+| [receiptly](https://megareborn.dev) | platform automation | archived |
+| [fern](https://fern.rip) | platform automation | archived |
 
 ---
 
@@ -46,8 +46,8 @@ currently running **[cyberbeach]([https://cyberbeach.cc])**
 ---
 
 <p align="center">
-  <a href="[https://cyberbeach.cc]"><img src="https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white" /></a>
-  <a href="[https://cyberbeach.cc/invite]"><img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="https://cyberbeach.cc"><img src="https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white" /></a>
+  <a href="https://cyberbeach.cc/invite"><img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
 </p>
 
 <p align="center">
