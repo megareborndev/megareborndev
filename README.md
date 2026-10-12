@@ -7,7 +7,7 @@
 ---
 
 been building automation tools across different platforms for a while now
-currently running **[cyberbeach]([YOUR_CYBERBEACH_URL])**
+currently running **[cyberbeach]([https://cyberbeach.cc])**
 
 ---
 
@@ -26,20 +26,20 @@ currently running **[cyberbeach]([YOUR_CYBERBEACH_URL])**
 ## stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=megareborndev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=megareborndev&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megareborndev&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?color=ffd700&label=total%20stars&query=%24.data.totalStars&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue&logo=github&style=flat-square" />
+  <a href="https://github.com/megareborndev?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?color=ffd700&label=total%20stars&query=%24.data.totalStars&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dmegareborndev%26show_icons%3Dtrue&logo=github&style=flat-square" />
   </a>
 </p>
 
@@ -51,5 +51,5 @@ currently running **[cyberbeach]([YOUR_CYBERBEACH_URL])**
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=views&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=megareborndev&label=views&color=0e75b6&style=flat-square" />
 </p>
