@@ -1,16 +1,55 @@
-## Hi there 👋
+# john doe
 
-<!--
-**megareborndev/megareborndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=building+automation+tools;currently+operating+cyberbeach" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+been building automation tools across different platforms for a while now
+currently running **[cyberbeach]([YOUR_CYBERBEACH_URL])**
+
+---
+
+## projects
+
+| project | description | status |
+|---------|-------------|--------|
+| [cyberbeach]([https://cyberbeach.cc]) | platform automation | active |
+| [go6]([https://megareborn.dev]) | platform automation | archived |
+| [bloxware]([https://megareborn.dev]) | platform automation | archived |
+| [receiptly]([https://megareborn.dev]) | platform automation | archived |
+| [fern]([https://fern.rip]) | platform automation | archived |
+
+---
+
+## stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?color=ffd700&label=total%20stars&query=%24.data.totalStars&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue&logo=github&style=flat-square" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="[https://cyberbeach.cc]"><img src="https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white" /></a>
+  <a href="[https://cyberbeach.cc/invite]"><img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=views&color=0e75b6&style=flat-square" />
+</p>
