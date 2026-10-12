@@ -1,4 +1,4 @@
-# john doe
+# mega
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=building+automation+tools;currently+operating+cyberbeach" alt="Typing SVG" />
